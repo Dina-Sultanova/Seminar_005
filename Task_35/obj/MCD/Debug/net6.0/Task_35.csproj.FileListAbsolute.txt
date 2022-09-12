@@ -1,0 +1,15 @@
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\bin\MCD\Debug\net6.0\Task_35.exe
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\bin\MCD\Debug\net6.0\Task_35.deps.json
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\bin\MCD\Debug\net6.0\Task_35.runtimeconfig.json
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\bin\MCD\Debug\net6.0\Task_35.dll
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\bin\MCD\Debug\net6.0\Task_35.pdb
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\obj\MCD\Debug\net6.0\Task_35.csproj.AssemblyReference.cache
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\obj\MCD\Debug\net6.0\Task_35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\obj\MCD\Debug\net6.0\Task_35.AssemblyInfoInputs.cache
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\obj\MCD\Debug\net6.0\Task_35.AssemblyInfo.cs
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\obj\MCD\Debug\net6.0\Task_35.csproj.CoreCompileInputs.cache
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\obj\MCD\Debug\net6.0\Task_35.dll
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\obj\MCD\Debug\net6.0\refint\Task_35.dll
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\obj\MCD\Debug\net6.0\Task_35.pdb
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\obj\MCD\Debug\net6.0\Task_35.genruntimeconfig.cache
+C:\Users\Домашний\Desktop\Обучение\Язык программиования С#\Seminar_005\Task_35\obj\MCD\Debug\net6.0\ref\Task_35.dll
